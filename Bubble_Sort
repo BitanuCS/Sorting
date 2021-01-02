@@ -1,3 +1,5 @@
+//Keep Sharing and you can find time and space complexity in the description.
+
 #include<stdio.h>
 int n,arr[30],i,j,temp;
 void bubblesort()
